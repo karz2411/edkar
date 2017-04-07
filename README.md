@@ -1,6 +1,6 @@
 # edkar
 trying a smpl
-the link : https://karz2411.github.io/edkar/
+the link : https://karz2411.github.io/edkar/ 
 i am trying out this software
 the sample data : 
 <iframe src="https://docs.google.com/spreadsheets/d/1pgrWWllX8rPURjh67SpfA5IPorHG2E2m5-eFU8TLGGs/pubhtml?widget=true&amp;headers=false"></iframe>
