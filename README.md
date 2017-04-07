@@ -3,8 +3,8 @@ trying a smpl
 the link : https://karz2411.github.io/edkar/
 i am trying out this software
 the sample data : 
-<iframe src="https://docs.google.com/spreadsheets/d/1REUb8xlfXcQV2qxWEPniMfTp1mSyV3j2H0V7pS9LJpI/pubhtml?gid=1046454988&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-<iframe src="https://docs.google.com/spreadsheets/d/1jFbuuQLW72q3lZHMkn5pqYdnsIvVSGv02zMBMjAOK4c/pubhtml"></iframe>
+<iframe src="https://github.com/karz2411/karzleafmap/blob/master/data.csv"></iframe>
+<iframe src="https://github.com/karz2411/karz-scatter/blob/master/student%20transit.csv"></iframe>
 
 <iframe src="https://karz2411.github.io/karz-scatter/" width="90%" height="350"></iframe>
 <iframe src="https://karz2411.github.io/karzleafmap/" width="90%" height="350"></iframe>
